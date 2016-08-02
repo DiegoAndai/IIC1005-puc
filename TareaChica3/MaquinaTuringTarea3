@@ -1,0 +1,151 @@
+name: Tarea Chica 3
+init: eCopiarN0
+accept: eFinal
+
+//para comprobar que el string pertenece a la regla requerida, se copia
+//N0 en la cinta 3, luego se copia el N1 a la cinta 2. De ahí en adelante
+//el procedimiento consiste en:
+//	sumar N0 con Ni, el resultado sobreescribe a Ni en la cinta 2
+//	comprobar que la suma sea efectivamente N(i+1), o sea que cinta 2 = cinta 1
+//	seguir con N(i+1)
+// 	repetir hasta encontrar el ultimo elemento
+
+//Copiar el numero que se sumará, N0
+
+eCopiarN0,0,_,_
+eCopiarN0,0,_,0,>,-,>
+
+eCopiarN0,1,_,_
+eCopiarN0,1,_,1,>,-,>
+
+eCopiarN0,:,_,_ //el final de N0 se demarca con ':'
+eCopiarN1,:,_,_,>,-,-
+
+//Copiar N1 que es el único que no se obtiene como una suma de N0 y N(i-1)
+
+eCopiarN1,0,_,_
+eCopiarN1,0,0,_,>,>,-
+
+eCopiarN1,1,_,_
+eCopiarN1,1,1,_,>,>,-
+
+eCopiarN1,.,_,_ //cuando llego al punto con la primera cinta se acabo el numero, pasamos a la suma
+eSumarSinReserva,.,_,_,-,<,< 
+
+eCopiarN1,_,_,_ //Si es que después del N1 no hay nada entonces se acepta
+eFinal,_,_,_,-,-,-
+
+//Sumar sin reserva:
+
+//ya que los numeros no pueden estar separados, si la cinta 2 y 3 
+//están vacias acabé de sumar.
+//si pertenece al lenguaje, quedan alineadas las tres cintas
+
+eSumarSinReserva,.,_,_
+eComprobar,.,_,_,>,>,> 
+
+//a continuacion las reglas para sumar:
+
+eSumarSinReserva,.,0,_
+eSumarSinReserva,.,0,_,-,<,<
+
+eSumarSinReserva,.,1,_
+eSumarSinReserva,.,1,_,-,<,<
+
+eSumarSinReserva,.,_,0
+eSumarSinReserva,.,0,0,-,<,<
+
+eSumarSinReserva,.,_,1
+eSumarSinReserva,.,1,1,-,<,<
+
+eSumarSinReserva,.,0,0
+eSumarSinReserva,.,0,0,-,<,<
+
+eSumarSinReserva,.,1,0
+eSumarSinReserva,.,1,0,-,<,<
+
+eSumarSinReserva,.,0,1
+eSumarSinReserva,.,1,1,-,<,<
+
+eSumarSinReserva,.,1,1
+eSumarConReserva,.,0,1,-,<,<
+
+//Sumar con reserva:
+
+//mismo criterio anterior para dejar de sumar: cintas 2 y 3 vacias ('_')
+//si pertenece al lenguaje, la cinta 1 queda desfasada pues tengo que 
+//escribir la reserva, por eso se corre solo la 1
+
+eSumarConReserva,.,_,_ 
+eComprobar,.,1,_,>,-,- 
+
+//a continuacion las propiedades para sumar cuando acarreo una reserva:
+
+eSumarConReserva,.,_,0
+eSumarSinReserva,.,1,0,-,<,<
+
+eSumarConReserva,.,_,1
+eSumarConReserva,.,0,1,-,<,<
+
+eSumarConReserva,.,0,_
+eSumarSinReserva,.,1,_,-,<,<
+
+eSumarConReserva,.,1,_
+eSumarConReserva,.,0,_,-,<,<
+
+eSumarConReserva,.,0,0
+eSumarSinReserva,.,1,0,-,<,<
+
+eSumarConReserva,.,0,1
+eSumarConReserva,.,0,1,-,<,<
+
+eSumarConReserva,.,1,0
+eSumarConReserva,.,0,0,-,<,<
+
+eSumarConReserva,.,1,1
+eSumarConReserva,.,1,1,-,<,<
+
+//comprobar:
+
+//siempre se mantiene el contenido de las cintas, falla si no 
+//encuentra lo mismo en cintas 1 y 2 o si encuentra espacios en estas
+
+eComprobar,0,0,_
+eComprobar,0,0,_,>,>,>
+
+eComprobar,1,1,_
+eComprobar,1,1,_,>,>,>
+
+eComprobar,0,0,0
+eComprobar,0,0,0,>,>,>
+
+eComprobar,1,1,0
+eComprobar,1,1,0,>,>,>
+
+eComprobar,0,0,1
+eComprobar,0,0,1,>,>,>
+
+eComprobar,1,1,1
+eComprobar,1,1,1,>,>,>
+
+eComprobar,.,_,_ 
+eSumarSinReserva,.,_,_,-,<,<
+
+//si se termina de comprobar sin fallos y hay otro numero, 
+//separado por el punto, pasamos a sumar cintas 2 y 3. Nótese que si
+//estoy comprobando Ni, y la comprobación fue exitosa, es porque en la cinta
+//2 se encuentra este Ni, por lo tanto no hay que copiarlo y solo procedemos
+//a sumarlo con N0 para comprobar que Ni+N0=N(i+1)
+
+//si se termina de comprobar y no hay un punto se asume que ya no quedan 
+//más numeros y se acepta el string
+
+eComprobar,_,_,_ 
+eFinal,_,_,_,-,-,-
+
+//cosas que no se aceptan:
+// numeros distintos de 0 que partan con 0
+// ningún espacio en el string
+// strings con punto al final que no tienen nada despues del punto, ya que este es el simbolo para separar dos elementos no vacios
+// signos distintos a '.',':','1','0' en el string
+// strings que no cumplan la regla N(i)=N(i-1)+N0 para i>=2

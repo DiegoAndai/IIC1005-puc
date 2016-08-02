@@ -1,0 +1,142 @@
+.dc-chart .axis path, .dc-chart .axis line, .dc-chart .axis text {
+    stroke: white;
+}
+
+.dc-chart .axis text {
+  font-weight: lighter;
+}
+
+.img-rounded{
+  float: left;
+}
+
+#filaContainer{
+  padding:20px 0px;
+}
+
+#columnaContainer{
+  background-color:#393B39;
+  border-radius:10px;
+}
+
+.title{
+  color: white;
+  float:left;
+}
+
+#title1{
+  width:180px;
+  margin-top:40px;
+}
+
+#title2{
+  width:200px;
+  margin:20px 0px 0px 10px;
+}
+
+#fila1{
+  padding:20px 0px;
+  background-color:#272829;
+}
+
+#paisesContainer{
+  height:500px;
+}
+
+#titlePaises{
+  padding-left:10px;
+}
+
+#representatividadPaises{
+  margin:40px 0px 30px 0px;
+}
+
+#map{
+  border-radius:10px;
+  height:460px;
+  margin-top:60px;
+}
+
+#mapaLabel{
+  margin:494px 0px 7px 0px;
+  color:white;
+  text-align:center;
+}
+
+#representatividadCumbres{
+  margin:-8px 0px 0px -30px;
+}
+
+#paginaLabel{
+  text-align:center;
+  float:left;
+  color:white;
+}
+
+#fila2{
+  padding:20px 0px;
+}
+
+#estadisticasMes{
+  margin-bottom:10px;
+}
+
+#fila3{
+  background-color:#272829;
+  height:100px;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;
+  padding-top: 20px;
+}
+
+h4{
+  color:white;
+  text-align: center;
+}
+
+h3{
+  color:white;
+  text-align: center;
+  margin-top: 0px;
+}
+
+#instrucciones{
+  color: #838783;
+  text-align: center;;
+  height: 20px;
+}
+
+#subBanner{
+  color: white;
+
+}
+
+.resetAll{
+  color: #187CBA;
+  cursor: pointer;
+}
+
+.resetcenter{
+  color: #187CBA;
+  margin: -5px 0px 10px 0px;
+  text-align: center;
+  clear: both;
+  cursor: pointer;
+}
+
+.controlPagina{
+  cursor: pointer;
+}
+
+#controlPaginaAtras{
+  color: #001C2B;
+  margin: 0px 5px;
+  float: left;
+}
+
+#controlPaginaAdelante{
+  color: #187CBA;
+  margin: 0px;
+  margin-left: 5px;
+  float: left;
+}

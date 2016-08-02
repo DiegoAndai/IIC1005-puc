@@ -1,0 +1,1642 @@
+Expedicion,Andinista,Pais,Cumbre,Latitud,Longitud,Fecha
+1,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/01/2014
+1,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/01/2014
+1,1,Alemania,Parque San Francisco,-32.688273,-70.380706,17/03/2014
+1,2,Alemania,Parque San Francisco,-32.688273,-70.380706,17/03/2014
+2,1,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/11/2015
+2,2,Kazakhstan,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/11/2015
+3,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,31/05/2014
+3,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,09/12/2014
+4,1,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/07/2014
+4,2,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/07/2014
+4,3,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/07/2014
+4,4,Australia,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/07/2014
+5,1,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/02/2015
+6,1,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/07/2013
+7,1,Bélgica,Torres del Paine: Torre Norte,-50.941552,-73.404732,03/01/2015
+7,2,Bélgica,Torres del Paine: Torre Norte,-50.941552,-73.404732,03/01/2015
+8,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/06/2015
+8,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/06/2015
+8,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/06/2015
+9,1,Argentina,Torres del Paine: Torre Norte,-50.941552,-73.404732,03/10/2015
+10,1,Austria,Volcán Llullaillaco,-24.7206512,-68.5365522,10/09/2014
+10,2,Austria,Volcán Llullaillaco,-24.7206512,-68.5365522,10/09/2014
+10,3,Austria,Volcán Llullaillaco,-24.7206512,-68.5365522,10/09/2014
+10,4,Austria,Volcán Llullaillaco,-24.7206512,-68.5365522,10/09/2014
+10,1,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,22/11/2014
+10,2,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,22/11/2014
+10,3,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,22/11/2014
+10,4,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,22/11/2014
+11,1,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/08/2013
+11,2,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/08/2013
+12,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/05/2014
+12,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/05/2014
+12,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,27/11/2014
+12,2,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,27/11/2014
+13,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,07/08/2014
+13,2,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,07/08/2014
+14,1,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/11/2013
+14,2,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/11/2013
+15,1,Chile,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/11/2013
+15,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/11/2013
+16,1,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,19/06/2014
+16,2,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,19/06/2014
+17,1,Chile,Cerro El Marmolejo,-33.735,-69.8783333,12/02/2013
+17,2,Brasil,Cerro El Marmolejo,-33.735,-69.8783333,12/02/2013
+17,3,Brasil,Cerro El Marmolejo,-33.735,-69.8783333,12/02/2013
+17,4,Brasil,Cerro El Marmolejo,-33.735,-69.8783333,12/02/2013
+18,1,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/08/2014
+18,2,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/08/2014
+19,1,Canadá,Volcán El Muerto,-27.0666667,-68.4833333,04/03/2014
+19,1,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,07/02/2014
+19,1,Canadá,Nevado Tres Cruces,-27.0833333,-68.7666667,15/05/2014
+20,1,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+21,1,Argentina,Volcán El Ermitaño,-26.778676,-68.601771,24/11/2014
+21,1,Argentina,Cerro Vicuñas,-27.0214,-68.6189,15/07/2014
+21,1,Argentina,Cerro Mulas Muertas,-26.9472222,-68.5105556,03/07/2014
+22,1,Austria,Cerro Barrancas Blancas,-28.2333333,-69.0333333,28/05/2015
+22,1,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/12/2015
+23,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+24,1,USA,Torres del Paine,-50.941552,-73.404732,29/03/2014
+24,2,USA,Torres del Paine,-50.941552,-73.404732,29/03/2014
+25,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/03/2013
+26,1,Brasil,Nevado Ojos del Salado,-27.1091666,-68.5408333,07/07/2015
+26,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,07/07/2015
+27,1,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,24/12/2014
+27,2,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,24/12/2014
+27,3,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,24/12/2014
+28,1,USA,Torres del Paine: Torre Central,-50.941552,-73.404732,22/08/2014
+29,1,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,31/05/2014
+30,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,19/06/2014
+30,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,19/06/2014
+30,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,19/06/2014
+31,1,Suiza,Volcán San Francisco,-33.4943868,-70.5772164,13/07/2013
+31,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,13/07/2013
+32,1,Francia,Volcán San José,-33.7833333,-69.9166667,30/08/2013
+32,2,Francia,Volcán San José,-33.7833333,-69.9166667,30/08/2013
+32,3,Francia,Volcán San José,-33.7833333,-69.9166667,30/08/2013
+33,1,Argentina,Cerro Incahuasi,-31.281825,-64.3086484,15/04/2013
+33,2,Suiza,Cerro Incahuasi,-31.281825,-64.3086484,15/04/2013
+33,3,Suiza,Cerro Incahuasi,-31.281825,-64.3086484,15/04/2013
+33,1,Argentina,Cerro El Fraile,-27.041627,-68.382944,24/09/2013
+33,2,Suiza,Cerro El Fraile,-27.041627,-68.382944,24/09/2013
+33,3,Suiza,Cerro El Fraile,-27.041627,-68.382944,24/09/2013
+33,1,Argentina,Cerro El Muerto,-27.0666667,-68.4833333,18/10/2013
+33,2,Suiza,Cerro El Muerto,-27.0666667,-68.4833333,18/10/2013
+33,3,Suiza,Cerro El Muerto,-27.0666667,-68.4833333,18/10/2013
+33,1,Argentina,Volcán Del Viento,-25.672563,-69.207467,04/09/2013
+33,2,Suiza,Volcán Del Viento,-25.672563,-69.207467,04/09/2013
+33,3,Suiza,Volcán Del Viento,-25.672563,-69.207467,04/09/2013
+33,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,19/09/2013
+33,2,Suiza,Nevado Tres Cruces,-27.0833333,-68.7666667,19/09/2013
+33,3,Suiza,Nevado Tres Cruces,-27.0833333,-68.7666667,19/09/2013
+34,1,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,09/02/2015
+34,2,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,09/02/2015
+34,3,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,09/02/2015
+34,4,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,09/02/2015
+35,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/03/2013
+35,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/03/2013
+35,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/03/2013
+35,4,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/03/2013
+36,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/12/2014
+36,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/12/2014
+37,1,Alemania,Cerro Sairecabur,-22.7166667,-67.9,12/06/2015
+37,2,Alemania,Cerro Sairecabur,-22.7166667,-67.9,12/06/2015
+37,1,Alemania,Volcán Ollagüe,-21.3025,-68.1791666,18/11/2015
+37,2,Alemania,Volcán Ollagüe,-21.3025,-68.1791666,18/11/2015
+37,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,26/10/2015
+37,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,26/10/2015
+38,1,Argentina,Cerro Cóndor,-42.7553076,-65.0585799,12/09/2014
+39,1,India,Nevado Ojos del Salado,-27.1091666,-68.5408333,18/12/2014
+40,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/04/2013
+41,1,España,Cerro Mulas Muertas,-26.9472222,-68.5105556,09/06/2013
+42,1,España,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,2,España,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,3,España,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,4,España,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,5,España,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,6,España,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,7,Italia,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,8,Italia,Volcán Isluga,-19.1563889,-68.8344444,13/07/2014
+42,1,España,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,2,España,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,3,España,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,4,España,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,5,España,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,6,España,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,7,Italia,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,8,Italia,Volcán Guallatiri,-18.4244444,-69.0902778,28/11/2014
+42,1,España,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+42,2,España,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+42,3,España,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+42,4,España,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+42,5,España,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+42,6,España,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+42,7,Italia,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+42,8,Italia,Volcán Parinacota,-18.1633405,-69.1426512,02/07/2014
+43,1,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/07/2014
+43,2,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/07/2014
+43,3,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/07/2014
+43,4,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/07/2014
+44,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,03/11/2013
+45,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,07/04/2013
+46,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,21/04/2014
+46,2,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,21/04/2014
+46,3,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,21/04/2014
+46,4,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,21/04/2014
+46,5,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,21/04/2014
+46,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2014
+46,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2014
+46,3,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2014
+46,4,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2014
+46,5,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2014
+47,1,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,2,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,3,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,4,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,5,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,6,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,7,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,8,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,9,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,15/01/2013
+47,1,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,2,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,3,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,4,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,5,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,6,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,7,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,8,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,9,Francia,Volcán Acotango,-18.3833333,-69.05,06/11/2013
+47,1,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,2,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,3,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,4,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,5,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,6,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,7,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,8,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,9,Francia,Volcán Parinacota,-18.1633405,-69.1426512,11/04/2013
+47,1,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,2,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,3,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,4,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,5,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,6,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,7,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,8,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,9,Francia,Volcán Pomerape,-18.125833,-69.1275,26/01/2013
+47,1,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,2,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,3,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,4,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,5,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,6,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,7,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,8,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+47,9,Francia,Volcán Licancabur,-22.8333333,-67.8833333,18/09/2013
+48,1,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/03/2015
+48,2,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/03/2015
+48,3,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/03/2015
+49,1,México,Nevado Ojos del Salado,-27.1091666,-68.5408333,07/06/2014
+50,1,Francia,Volcán Parinacota,-18.1633405,-69.1426512,03/10/2013
+50,2,Francia,Volcán Parinacota,-18.1633405,-69.1426512,03/10/2013
+50,3,Francia,Volcán Parinacota,-18.1633405,-69.1426512,03/10/2013
+51,1,Inglaterra,Volcán Salin,-24.3317,-68.0639,25/04/2014
+51,1,Inglaterra,Volcán Pular,-24.1875,-68.054167,08/06/2014
+51,1,Inglaterra,Volcán Socompa,-24.3958333,-68.2458333,22/11/2014
+51,1,Inglaterra,Volcán Llullaillaco,-24.7206512,-68.5365522,21/01/2014
+51,1,Inglaterra,Volcán Colorado,-22.5925,-67.9216667,10/12/2014
+51,1,Inglaterra,Volcán San Francisco,-33.4943868,-70.5772164,08/12/2014
+51,1,Inglaterra,Cerro El Fraile,-27.041627,-68.382944,14/11/2014
+51,1,Inglaterra,Volcán Solo,-27.069926,-68.73063,01/10/2014
+51,1,Inglaterra,Volcán Sierra Nevada,-36.6233758,-72.0832987,07/01/2014
+51,1,Inglaterra,Cerro Los Patos,-27.3,-68.8083333,14/10/2014
+51,1,Inglaterra,Cerro Olivares,-34.6173429,-58.5595981,20/06/2014
+51,1,Inglaterra,Cerro Las Tórtolas,-34.6172666,-58.5591813,05/11/2014
+52,1,España,Nevado Tres Cruces,-27.0833333,-68.7666667,08/08/2014
+52,2,España,Nevado Tres Cruces,-27.0833333,-68.7666667,08/08/2014
+53,1,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,2,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,3,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,4,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,5,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,6,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,7,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,8,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,9,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,10,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,11,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,12,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,13,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,14,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,15,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+53,16,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,13/09/2013
+54,1,Argentina,Cerro San Lorenzo,-47.5916666,-72.3066666,02/05/2013
+54,2,Argentina,Cerro San Lorenzo,-47.5916666,-72.3066666,02/05/2013
+54,3,Italia,Cerro San Lorenzo,-47.5916666,-72.3066666,02/05/2013
+54,4,Inglaterra,Cerro San Lorenzo,-47.5916666,-72.3066666,02/05/2013
+55,1,Alemania,Volcán Isluga,-19.1563889,-68.8344444,23/08/2014
+55,2,Alemania,Volcán Isluga,-19.1563889,-68.8344444,23/08/2014
+55,1,Alemania,Cerro San Pablo,-54.577922,-72.0197,12/06/2014
+55,2,Alemania,Cerro San Pablo,-54.577922,-72.0197,12/06/2014
+55,1,Alemania,Cerro Pilli,-23.2925,-67.6174999,31/01/2014
+55,2,Alemania,Cerro Pilli,-23.2925,-67.6174999,31/01/2014
+55,1,Alemania,Cerro Barrancas Blancas,-28.2333333,-69.0333333,09/06/2014
+55,2,Alemania,Cerro Barrancas Blancas,-28.2333333,-69.0333333,09/06/2014
+55,1,Alemania,Cerro Vicuñas,-27.0214,-68.6189,08/10/2014
+55,2,Alemania,Cerro Vicuñas,-27.0214,-68.6189,08/10/2014
+55,1,Alemania,Volcán El Ermitaño,-26.778676,-68.601771,02/01/2014
+55,2,Alemania,Volcán El Ermitaño,-26.778676,-68.601771,02/01/2014
+55,1,Alemania,Cerro Mulas Muertas,-26.9472222,-68.5105556,25/10/2014
+55,2,Alemania,Cerro Mulas Muertas,-26.9472222,-68.5105556,25/10/2014
+55,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/05/2014
+55,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/05/2014
+56,1,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/03/2015
+57,1,Noruega,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2013
+57,2,Noruega,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2013
+57,3,Noruega,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/03/2013
+58,1,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,2,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,3,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,4,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,5,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,6,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,7,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,8,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,9,Austria,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,10,Austria,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,11,Austria,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+58,12,Bolivia,Volcán Guallatiri,-18.4244444,-69.0902778,26/04/2014
+59,1,Eslovaquia,Cerro Mulas Muertas,-26.9472222,-68.5105556,15/02/2013
+59,2,Eslovaquia,Cerro Mulas Muertas,-26.9472222,-68.5105556,15/02/2013
+59,1,Eslovaquia,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/06/2013
+59,2,Eslovaquia,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/06/2013
+60,1,Brasil,Nevado Tres Cruces,-27.0833333,-68.7666667,10/01/2014
+60,1,Brasil,Volcán El Ermitaño,-26.778676,-68.601771,15/09/2014
+60,1,Brasil,Cerro Vicuñas,-27.0214,-68.6189,19/08/2014
+60,1,Brasil,Cerro El Muerto,-27.0666667,-68.4833333,23/04/2014
+60,1,Brasil,Nevado Ojos del Salado,-27.1091666,-68.5408333,29/12/2014
+60,1,Brasil,Cerro Incahuasi,-31.281825,-64.3086484,18/07/2014
+61,1,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/02/2015
+61,2,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/02/2015
+62,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,07/05/2014
+62,2,Alemania,Volcán Tupungato,-36.6236493,-72.0842141,07/05/2014
+63,1,Noruega,Campos de Hielo Norte,-33.4844795,-70.7639531,19/09/2013
+63,2,Noruega,Campos de Hielo Norte,-33.4844795,-70.7639531,19/09/2013
+63,3,Canadá,Campos de Hielo Norte,-33.4844795,-70.7639531,19/09/2013
+63,4,Irlanda,Campos de Hielo Norte,-33.4844795,-70.7639531,19/09/2013
+63,5,Irlanda,Campos de Hielo Norte,-33.4844795,-70.7639531,19/09/2013
+64,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,29/03/2014
+64,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,29/03/2014
+64,3,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,29/03/2014
+64,4,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,29/03/2014
+64,5,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,29/03/2014
+65,1,Argentina,Volcán San Francisco,-33.4943868,-70.5772164,18/11/2013
+65,2,Argentina,Volcán San Francisco,-33.4943868,-70.5772164,18/11/2013
+66,1,Suiza,Volcán San Francisco,-33.4943868,-70.5772164,03/12/2014
+66,2,Suiza,Volcán San Francisco,-33.4943868,-70.5772164,03/12/2014
+66,1,Suiza,Volcán San Francisco,-33.4943868,-70.5772164,03/12/2014
+66,2,Suiza,Volcán San Francisco,-33.4943868,-70.5772164,03/12/2014
+66,1,Suiza,Cerro El Muerto,-27.0666667,-68.4833333,17/01/2014
+66,2,Suiza,Cerro El Muerto,-27.0666667,-68.4833333,17/01/2014
+66,1,Suiza,Cerro El Muerto,-27.0666667,-68.4833333,17/01/2014
+66,2,Suiza,Cerro El Muerto,-27.0666667,-68.4833333,17/01/2014
+67,1,Australia,Campos de Hielo Sur,-49.25,-73.5,25/07/2015
+67,2,Australia,Campos de Hielo Sur,-49.25,-73.5,25/07/2015
+67,3,Nueva Zelanda,Campos de Hielo Sur,-49.25,-73.5,25/07/2015
+68,1,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2013
+68,2,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2013
+69,1,Alemania,Volcán Irruputuncu,-20.7333333,-68.5666667,06/08/2014
+69,1,Alemania,Volcán Lascar,-23.3630556,-67.7313889,24/04/2014
+69,1,Alemania,Volcán Lastarria,-25.168361,-68.5,18/11/2014
+70,1,Alemania,Cerro Las Tórtolas,-34.6172666,-58.5591813,24/03/2013
+71,1,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,07/06/2013
+72,1,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/01/2014
+73,1,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/05/2014
+73,2,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/05/2014
+73,3,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/05/2014
+73,4,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/05/2014
+73,5,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/05/2014
+74,1,Eslovaquia,Cerro Mulas Muertas,-26.9472222,-68.5105556,09/02/2013
+74,2,Eslovaquia,Cerro Mulas Muertas,-26.9472222,-68.5105556,09/02/2013
+75,1,Italia,Volcán Parinacota,-18.1633405,-69.1426512,17/10/2015
+75,2,Italia,Volcán Parinacota,-18.1633405,-69.1426512,17/10/2015
+75,3,Italia,Volcán Parinacota,-18.1633405,-69.1426512,17/10/2015
+75,4,Italia,Volcán Parinacota,-18.1633405,-69.1426512,17/10/2015
+76,1,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/03/2015
+76,2,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/03/2015
+76,3,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/03/2015
+76,4,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/03/2015
+76,5,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/03/2015
+77,1,Francia,Cerro Las Tórtolas,-34.6172666,-58.5591813,09/12/2015
+77,2,Francia,Cerro Las Tórtolas,-34.6172666,-58.5591813,09/12/2015
+78,1,Bolivia,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,2,Bolivia,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,3,Bolivia,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,4,Bolivia,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,5,Suiza,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,6,Suiza,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,7,Suiza,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,8,Suiza,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,9,Perú,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,10,Alemania,Volcán Isluga,-19.1563889,-68.8344444,03/02/2015
+78,1,Bolivia,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,2,Bolivia,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,3,Bolivia,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,4,Bolivia,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,5,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,6,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,7,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,8,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,9,Perú,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,10,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,22/10/2015
+78,1,Bolivia,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,2,Bolivia,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,3,Bolivia,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,4,Bolivia,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,5,Suiza,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,6,Suiza,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,7,Suiza,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,8,Suiza,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,9,Perú,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+78,10,Alemania,Volcán Parinacota,-18.1633405,-69.1426512,24/07/2015
+79,1,Francia,Nevado Tres Cruces,-27.0833333,-68.7666667,22/08/2015
+80,1,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,31/10/2014
+80,2,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,31/10/2014
+80,1,USA,Torres del Paine: Valle del Ascencio,-50.941552,-73.404732,25/01/2014
+80,2,USA,Torres del Paine: Valle del Ascencio,-50.941552,-73.404732,25/01/2014
+81,1,Perú,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,2,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,3,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,4,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,5,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,6,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,7,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,8,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,9,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+81,10,Bélgica,Nevado Ojos del Salado,-27.1091666,-68.5408333,10/10/2013
+82,1,España,Torres del Paine: Cerro Almirante Nieto,-50.941552,-73.404732,31/07/2013
+83,1,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/11/2015
+83,2,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/11/2015
+83,1,Italia,Cerro Laguna Verde,-23.2541667,-67.7122222,17/12/2015
+83,2,Italia,Cerro Laguna Verde,-23.2541667,-67.7122222,17/12/2015
+83,1,Italia,Cerro Mulas Muertas,-26.9472222,-68.5105556,17/12/2015
+83,2,Italia,Cerro Mulas Muertas,-26.9472222,-68.5105556,17/12/2015
+83,1,Italia,Cerro Vicuñas,-27.0214,-68.6189,21/12/2015
+83,2,Italia,Cerro Vicuñas,-27.0214,-68.6189,21/12/2015
+83,1,Italia,Volcán San Francisco,-33.4943868,-70.5772164,22/02/2015
+83,2,Italia,Volcán San Francisco,-33.4943868,-70.5772164,22/02/2015
+83,1,Italia,Cerro El Muerto,-27.0666667,-68.4833333,12/11/2015
+83,2,Italia,Cerro El Muerto,-27.0666667,-68.4833333,12/11/2015
+84,1,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/09/2014
+84,2,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/09/2014
+84,3,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/09/2014
+84,4,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/09/2014
+85,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/08/2013
+85,2,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/08/2013
+85,1,España,Cerro Laguna Verde,-23.2541667,-67.7122222,18/11/2013
+85,2,España,Cerro Laguna Verde,-23.2541667,-67.7122222,18/11/2013
+86,1,Francia,Cerro Siete Hermanos,-27.019025,-69.198167,14/11/2014
+86,2,Francia,Cerro Siete Hermanos,-27.019025,-69.198167,14/11/2014
+86,1,Francia,Cerro Mulas Muertas,-26.9472222,-68.5105556,01/12/2014
+86,2,Francia,Cerro Mulas Muertas,-26.9472222,-68.5105556,01/12/2014
+86,1,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,09/06/2014
+86,2,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,09/06/2014
+87,1,Alemania,Volcán Tupungato,-36.6236493,-72.0842141,07/08/2014
+87,2,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,07/08/2014
+88,1,Brasil,Volcán Tupungato,-36.6236493,-72.0842141,31/05/2014
+88,2,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,31/05/2014
+88,3,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,31/05/2014
+89,1,Nueva Zelanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/12/2015
+90,1,Lituania,Cerro Siete Hermanos,-27.019025,-69.198167,17/05/2015
+90,2,Lituania,Cerro Siete Hermanos,-27.019025,-69.198167,17/05/2015
+90,3,Lituania,Cerro Siete Hermanos,-27.019025,-69.198167,17/05/2015
+90,4,Lituania,Cerro Siete Hermanos,-27.019025,-69.198167,17/05/2015
+90,1,Lituania,Volcán Copiapó,-27.3058333,-69.1308333,18/11/2015
+90,2,Lituania,Volcán Copiapó,-27.3058333,-69.1308333,18/11/2015
+90,3,Lituania,Volcán Copiapó,-27.3058333,-69.1308333,18/11/2015
+90,4,Lituania,Volcán Copiapó,-27.3058333,-69.1308333,18/11/2015
+90,1,Lituania,Cerro Mulas Muertas,-26.9472222,-68.5105556,19/10/2015
+90,2,Lituania,Cerro Mulas Muertas,-26.9472222,-68.5105556,19/10/2015
+90,3,Lituania,Cerro Mulas Muertas,-26.9472222,-68.5105556,19/10/2015
+90,4,Lituania,Cerro Mulas Muertas,-26.9472222,-68.5105556,19/10/2015
+90,1,Lituania,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/06/2015
+90,2,Lituania,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/06/2015
+90,3,Lituania,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/06/2015
+90,4,Lituania,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/06/2015
+91,1,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,31/05/2014
+92,1,USA,Torres del Paine: Valle del Francés,-50.941552,-73.404732,21/09/2013
+92,2,USA,Torres del Paine: Valle del Francés,-50.941552,-73.404732,21/09/2013
+93,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/12/2013
+93,2,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/12/2013
+94,1,República Checa,Volcán Isluga,-19.1563889,-68.8344444,11/11/2014
+94,2,República Checa,Volcán Isluga,-19.1563889,-68.8344444,11/11/2014
+94,1,República Checa,Volcán Licancabur,-22.8333333,-67.8833333,11/06/2014
+94,2,República Checa,Volcán Licancabur,-22.8333333,-67.8833333,11/06/2014
+94,1,República Checa,Volcán Lascar,-23.3630556,-67.7313889,01/02/2014
+94,2,República Checa,Volcán Lascar,-23.3630556,-67.7313889,01/02/2014
+94,1,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,17/09/2014
+94,2,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,17/09/2014
+95,1,Italia,Torres del Paine,-50.941552,-73.404732,23/02/2014
+95,2,Italia,Torres del Paine,-50.941552,-73.404732,23/02/2014
+96,1,Chile,Volcán Socompa,-24.3958333,-68.2458333,04/08/2014
+96,2,Chile,Volcán Socompa,-24.3958333,-68.2458333,04/08/2014
+96,1,Chile,Volcán Salin,-24.3317,-68.0639,30/10/2014
+96,2,Chile,Volcán Salin,-24.3317,-68.0639,30/10/2014
+97,1,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,30/06/2015
+97,2,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,30/06/2015
+97,3,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,30/06/2015
+97,4,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,30/06/2015
+97,1,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/06/2015
+97,2,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/06/2015
+97,3,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/06/2015
+97,4,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/06/2015
+98,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2015
+98,2,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2015
+99,1,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/04/2013
+99,2,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/04/2013
+100,1,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,20/09/2014
+100,2,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,20/09/2014
+100,3,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,20/09/2014
+100,4,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,20/09/2014
+100,5,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,20/09/2014
+100,1,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/06/2014
+100,2,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/06/2014
+100,3,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/06/2014
+100,4,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/06/2014
+100,5,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/06/2014
+101,1,Canadá,Nevado Tres Cruces,-27.0833333,-68.7666667,04/11/2013
+102,1,USA,Torres del Paine,-50.941552,-73.404732,11/12/2015
+102,2,USA,Torres del Paine,-50.941552,-73.404732,11/12/2015
+103,1,USA,Volcán Tupungato,-36.6236493,-72.0842141,12/01/2013
+103,2,USA,Volcán Tupungato,-36.6236493,-72.0842141,12/01/2013
+103,3,USA,Volcán Tupungato,-36.6236493,-72.0842141,12/01/2013
+103,4,USA,Volcán Tupungato,-36.6236493,-72.0842141,12/01/2013
+103,5,USA,Volcán Tupungato,-36.6236493,-72.0842141,12/01/2013
+103,6,USA,Volcán Tupungato,-36.6236493,-72.0842141,12/01/2013
+104,1,USA,Cerro Juncal,-34.6164637,-58.5615698,29/06/2013
+104,2,USA,Cerro Juncal,-34.6164637,-58.5615698,29/06/2013
+104,3,USA,Cerro Juncal,-34.6164637,-58.5615698,29/06/2013
+104,4,USA,Cerro Juncal,-34.6164637,-58.5615698,29/06/2013
+104,5,USA,Cerro Juncal,-34.6164637,-58.5615698,29/06/2013
+104,6,USA,Cerro Juncal,-34.6164637,-58.5615698,29/06/2013
+105,1,USA,Torres del Paine,-50.941552,-73.404732,05/11/2015
+106,1,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/01/2014
+106,2,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/01/2014
+107,1,Argentina,Cerro Los Maitenes,-34.3638889,-71.5544444,15/04/2013
+107,2,Argentina,Cerro Los Maitenes,-34.3638889,-71.5544444,15/04/2013
+108,1,Indonesia,Torres del Paine,-50.941552,-73.404732,13/02/2015
+108,2,Rusia,Torres del Paine,-50.941552,-73.404732,13/02/2015
+109,1,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,2,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,3,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,4,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,5,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,6,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,7,Bolivia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,8,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,9,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,10,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,11,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,12,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,13,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,14,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,15,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,16,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,17,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,18,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,19,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,20,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,21,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+109,22,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+110,1,España,Torres del Paine,-50.941552,-73.404732,25/08/2015
+110,2,España,Torres del Paine,-50.941552,-73.404732,25/08/2015
+110,1,España,Volcán Villarrica,-39.4208333,-71.9391666,03/02/2015
+110,2,España,Volcán Villarrica,-39.4208333,-71.9391666,03/02/2015
+110,1,España,Volcán Lanin,-39.6372198,-71.5023509,24/08/2015
+110,2,España,Volcán Lanin,-39.6372198,-71.5023509,24/08/2015
+111,1,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,17/09/2013
+111,1,Alemania,Volcán San Pedro,-21.8875,-68.3916666,15/05/2013
+111,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,28/03/2013
+111,1,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,03/05/2013
+111,1,Alemania,Cerro Incahuasi,-31.281825,-64.3086484,21/02/2013
+111,1,Alemania,Cerro Vicuñas,-27.0214,-68.6189,02/02/2013
+111,1,Alemania,Cerro Barrancas Blancas,-28.2333333,-69.0333333,27/03/2013
+112,1,Canadá,Nevado Tres Cruces,-27.0833333,-68.7666667,10/11/2015
+112,2,Canadá,Nevado Tres Cruces,-27.0833333,-68.7666667,10/11/2015
+112,3,Canadá,Nevado Tres Cruces,-27.0833333,-68.7666667,10/11/2015
+112,4,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,10/11/2015
+112,1,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/07/2015
+112,2,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/07/2015
+112,3,Canadá,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/07/2015
+112,4,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/07/2015
+113,1,Italia,Monte Sarmiento,-54.45,-70.8399999,24/01/2014
+113,2,Italia,Monte Sarmiento,-54.45,-70.8399999,24/01/2014
+113,3,Italia,Monte Sarmiento,-54.45,-70.8399999,24/01/2014
+113,4,Italia,Monte Sarmiento,-54.45,-70.8399999,24/01/2014
+113,5,Italia,Monte Sarmiento,-54.45,-70.8399999,24/01/2014
+114,1,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,30/01/2013
+114,2,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,30/01/2013
+114,3,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,30/01/2013
+114,4,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,30/01/2013
+114,5,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,30/01/2013
+114,6,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,30/01/2013
+114,1,España,Torres del Paine: Torre Central,-50.941552,-73.404732,24/11/2013
+114,2,España,Torres del Paine: Torre Central,-50.941552,-73.404732,24/11/2013
+114,3,España,Torres del Paine: Torre Central,-50.941552,-73.404732,24/11/2013
+114,4,España,Torres del Paine: Torre Central,-50.941552,-73.404732,24/11/2013
+114,5,España,Torres del Paine: Torre Central,-50.941552,-73.404732,24/11/2013
+114,6,España,Torres del Paine: Torre Central,-50.941552,-73.404732,24/11/2013
+115,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/01/2015
+116,1,España,Cerro Mulas Muertas,-26.9472222,-68.5105556,15/11/2015
+116,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/07/2015
+117,1,Brasil,Volcán Sollipulli,-38.966667,-71.516667,04/10/2013
+117,2,Brasil,Volcán Sollipulli,-38.966667,-71.516667,04/10/2013
+117,3,Brasil,Volcán Sollipulli,-38.966667,-71.516667,04/10/2013
+117,1,Brasil,Volcán Llaima,-38.6970035,-71.7300028,10/04/2013
+117,2,Brasil,Volcán Llaima,-38.6970035,-71.7300028,10/04/2013
+117,3,Brasil,Volcán Llaima,-38.6970035,-71.7300028,10/04/2013
+117,1,Brasil,Volcán Sierra Nevada,-36.6233758,-72.0832987,22/05/2013
+117,2,Brasil,Volcán Sierra Nevada,-36.6233758,-72.0832987,22/05/2013
+117,3,Brasil,Volcán Sierra Nevada,-36.6233758,-72.0832987,22/05/2013
+117,1,Brasil,Volcán Lonquimay,-38.3808333,-71.5866666,14/02/2013
+117,2,Brasil,Volcán Lonquimay,-38.3808333,-71.5866666,14/02/2013
+117,3,Brasil,Volcán Lonquimay,-38.3808333,-71.5866666,14/02/2013
+117,1,Brasil,Volcán Villarrica,-39.4208333,-71.9391666,01/04/2013
+117,2,Brasil,Volcán Villarrica,-39.4208333,-71.9391666,01/04/2013
+117,3,Brasil,Volcán Villarrica,-39.4208333,-71.9391666,01/04/2013
+117,1,Brasil,Volcán Calbuco,-41.33,-72.6183333,07/09/2013
+117,2,Brasil,Volcán Calbuco,-41.33,-72.6183333,07/09/2013
+117,3,Brasil,Volcán Calbuco,-41.33,-72.6183333,07/09/2013
+117,1,Brasil,Volcán Osorno ,-41.1041666,-72.4958333,19/07/2013
+117,2,Brasil,Volcán Osorno ,-41.1041666,-72.4958333,19/07/2013
+117,3,Brasil,Volcán Osorno ,-41.1041666,-72.4958333,19/07/2013
+117,1,Brasil,Volcán Casablanca,-40.771389,-72,26/12/2013
+117,2,Brasil,Volcán Casablanca,-40.771389,-72,26/12/2013
+117,3,Brasil,Volcán Casablanca,-40.771389,-72,26/12/2013
+118,1,Francia,Volcán Tupungato,-36.6236493,-72.0842141,19/10/2015
+118,2,Francia,Volcán Tupungato,-36.6236493,-72.0842141,19/10/2015
+118,3,Francia,Volcán Tupungato,-36.6236493,-72.0842141,19/10/2015
+118,4,Francia,Volcán Tupungato,-36.6236493,-72.0842141,19/10/2015
+118,5,Francia,Volcán Tupungato,-36.6236493,-72.0842141,19/10/2015
+118,6,Francia,Volcán Tupungato,-36.6236493,-72.0842141,19/10/2015
+118,7,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,19/10/2015
+119,1,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,07/07/2015
+120,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/07/2014
+121,1,Holanda,Torres del Paine: Valle del Francés,-50.941552,-73.404732,14/09/2015
+121,2,Suiza,Torres del Paine: Valle del Francés,-50.941552,-73.404732,14/09/2015
+121,1,Holanda,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,30/04/2015
+121,2,Suiza,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,30/04/2015
+122,1,Alemania,Volcán Tupungato,-36.6236493,-72.0842141,11/02/2015
+122,1,Alemania,Volcán Cerro Alto,-33.468313,-69.815124,27/05/2015
+123,1,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,12/11/2013
+123,2,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,12/11/2013
+123,3,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,12/11/2013
+123,4,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,12/11/2013
+123,5,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,12/11/2013
+124,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/06/2014
+124,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/06/2014
+124,3,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/06/2014
+125,1,Alemania,Volcán Tupungato,-36.6236493,-72.0842141,26/10/2013
+126,1,Austria,Volcán Licancabur,-22.8333333,-67.8833333,25/09/2014
+126,2,Austria,Volcán Licancabur,-22.8333333,-67.8833333,25/09/2014
+126,1,Austria,Volcán El Toco,-22.939412,-67.775574,14/03/2014
+126,2,Austria,Volcán El Toco,-22.939412,-67.775574,14/03/2014
+126,1,Austria,Volcán El Tatio,-22.259622,-68.022059,23/03/2014
+126,2,Austria,Volcán El Tatio,-22.259622,-68.022059,23/03/2014
+127,1,Francia,Cerro El Marmolejo,-33.735,-69.8783333,07/01/2014
+127,2,Francia,Cerro El Marmolejo,-33.735,-69.8783333,07/01/2014
+128,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,24/11/2014
+128,1,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,03/06/2014
+129,1,Eslovaquia,Cerro El Marmolejo,-33.735,-69.8783333,11/07/2015
+129,2,Eslovaquia,Cerro El Marmolejo,-33.735,-69.8783333,11/07/2015
+129,3,Eslovaquia,Cerro El Marmolejo,-33.735,-69.8783333,11/07/2015
+129,4,Eslovaquia,Cerro El Marmolejo,-33.735,-69.8783333,11/07/2015
+129,1,Eslovaquia,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/06/2015
+129,2,Eslovaquia,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/06/2015
+129,3,Eslovaquia,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/06/2015
+129,4,Eslovaquia,Nevado Ojos del Salado,-27.1091666,-68.5408333,01/06/2015
+129,1,Eslovaquia,Volcán Licancabur,-22.8333333,-67.8833333,10/02/2015
+129,2,Eslovaquia,Volcán Licancabur,-22.8333333,-67.8833333,10/02/2015
+129,3,Eslovaquia,Volcán Licancabur,-22.8333333,-67.8833333,10/02/2015
+129,4,Eslovaquia,Volcán Licancabur,-22.8333333,-67.8833333,10/02/2015
+130,1,Argentina,Monte Sarmiento,-54.45,-70.8399999,04/11/2013
+130,2,Argentina,Monte Sarmiento,-54.45,-70.8399999,04/11/2013
+131,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,13/06/2015
+131,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,13/06/2015
+131,3,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,13/06/2015
+131,4,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,13/06/2015
+131,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/03/2015
+131,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/03/2015
+131,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/03/2015
+131,4,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/03/2015
+132,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/03/2015
+132,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/03/2015
+132,3,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/03/2015
+132,4,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/03/2015
+132,5,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/03/2015
+132,6,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/03/2015
+133,1,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,05/03/2013
+133,1,Alemania,Volcán Tupungato,-36.6236493,-72.0842141,24/05/2013
+134,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,15/01/2013
+135,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+135,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+135,3,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+135,4,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+135,5,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+135,6,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+135,7,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+135,8,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/07/2013
+136,1,Chile,Torres del Paine: Torre Norte,-50.941552,-73.404732,29/09/2014
+136,2,Argentina,Torres del Paine: Torre Norte,-50.941552,-73.404732,29/09/2014
+137,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,29/10/2015
+137,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,29/10/2015
+137,1,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,19/06/2015
+137,2,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,19/06/2015
+138,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,21/12/2013
+138,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,21/12/2013
+138,3,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,21/12/2013
+138,4,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,21/12/2013
+138,5,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,21/12/2013
+139,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/12/2014
+139,2,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/12/2014
+140,1,República Checa,Cerro Vicuñas,-27.0214,-68.6189,05/10/2015
+140,2,República Checa,Cerro Vicuñas,-27.0214,-68.6189,05/10/2015
+140,1,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/11/2015
+140,2,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/11/2015
+141,1,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+141,2,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+141,3,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+141,4,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+141,5,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+141,6,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+141,7,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+142,1,Irlanda,Torres del Paine: Cerro Catedral,-50.941552,-73.404732,14/02/2015
+142,2,Bélgica,Torres del Paine: Cerro Catedral,-50.941552,-73.404732,14/02/2015
+142,3,Bélgica,Torres del Paine: Cerro Catedral,-50.941552,-73.404732,14/02/2015
+143,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,31/12/2013
+143,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,09/10/2013
+144,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,30/08/2014
+144,2,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,30/08/2014
+145,1,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/08/2014
+146,1,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,2,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,3,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,4,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,5,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,6,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,7,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,8,Rusia,Cerro Los Patos,-27.3,-68.8083333,04/06/2015
+146,1,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,2,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,3,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,4,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,5,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,6,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,7,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,8,Rusia,Cerro Mulas Muertas,-26.9472222,-68.5105556,07/06/2015
+146,1,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+146,2,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+146,3,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+146,4,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+146,5,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+146,6,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+146,7,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+146,8,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/09/2015
+147,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,11/09/2015
+147,2,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,11/09/2015
+148,1,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,16/11/2014
+148,2,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,16/11/2014
+148,1,USA,Torres del Paine: Valle del Ascencio,-50.941552,-73.404732,19/05/2014
+148,2,USA,Torres del Paine: Valle del Ascencio,-50.941552,-73.404732,19/05/2014
+149,1,Suiza,Cerro Las Tórtolas,-34.6172666,-58.5591813,05/12/2014
+149,2,Suiza,Cerro Las Tórtolas,-34.6172666,-58.5591813,05/12/2014
+150,1,Brasil,Cerro El Marmolejo,-33.735,-69.8783333,14/08/2014
+151,1,Brasil,Volcán Tupungato,-36.6236493,-72.0842141,14/02/2013
+152,1,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,29/01/2014
+152,1,USA,Nevado Tres Cruces,-27.0833333,-68.7666667,06/02/2014
+152,1,USA,Cerro Siete Hermanos,-27.019025,-69.198167,11/03/2014
+152,1,USA,Cerro Mulas Muertas,-26.9472222,-68.5105556,12/12/2014
+153,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,2,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,3,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,4,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,5,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,6,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,7,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,8,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,9,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,10,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,11,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,12,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,13,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+153,14,Francia,Volcán Tupungato,-36.6236493,-72.0842141,01/06/2013
+154,1,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,17/01/2013
+154,2,Argentina,Volcán Tupungato,-36.6236493,-72.0842141,17/01/2013
+155,1,Rumania,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/11/2015
+156,1,Perú,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,2,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,3,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,4,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,5,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,6,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,7,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,8,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,9,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,10,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+156,11,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/02/2014
+157,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/07/2013
+157,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/07/2013
+157,3,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/07/2013
+157,4,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/07/2013
+158,1,Chile,Cerro El Marmolejo,-33.735,-69.8783333,11/12/2013
+158,2,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,11/12/2013
+158,3,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,11/12/2013
+159,1,Inglaterra,Volcán Llullaillaco,-24.7206512,-68.5365522,19/02/2015
+159,1,Inglaterra,Cerro Incahuasi,-31.281825,-64.3086484,18/01/2015
+159,1,Inglaterra,Nevado Tres Cruces,-27.0833333,-68.7666667,30/07/2015
+160,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/09/2015
+160,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/09/2015
+161,1,Francia,Volcán San José,-33.7833333,-69.9166667,24/01/2014
+161,2,Francia,Volcán San José,-33.7833333,-69.9166667,24/01/2014
+161,3,Francia,Volcán San José,-33.7833333,-69.9166667,24/01/2014
+161,1,Francia,Cerro El Marmolejo,-33.735,-69.8783333,23/03/2014
+161,2,Francia,Cerro El Marmolejo,-33.735,-69.8783333,23/03/2014
+161,3,Francia,Cerro El Marmolejo,-33.735,-69.8783333,23/03/2014
+162,1,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/04/2015
+162,2,Rusia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/04/2015
+163,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,09/05/2014
+164,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,17/04/2015
+164,2,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,17/04/2015
+165,1,Alemania,Cerro Olivares,-34.6173429,-58.5595981,13/05/2015
+165,2,Alemania,Cerro Olivares,-34.6173429,-58.5595981,13/05/2015
+165,3,Alemania,Cerro Olivares,-34.6173429,-58.5595981,13/05/2015
+165,4,Alemania,Cerro Olivares,-34.6173429,-58.5595981,13/05/2015
+165,5,Alemania,Cerro Olivares,-34.6173429,-58.5595981,13/05/2015
+166,1,Argentina,Nevado Tres Cruces,-27.0833333,-68.7666667,25/10/2013
+167,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/05/2014
+167,2,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/05/2014
+167,3,Chile,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/05/2014
+167,1,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/12/2014
+167,2,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/12/2014
+167,3,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/12/2014
+167,4,Australia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/12/2014
+168,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,06/12/2014
+168,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,06/12/2014
+169,1,Alemania,Cerro Mulas Muertas,-26.9472222,-68.5105556,24/12/2013
+169,2,Alemania,Cerro Mulas Muertas,-26.9472222,-68.5105556,24/12/2013
+169,1,Alemania,Cerro Barrancas Blancas,-28.2333333,-69.0333333,03/02/2013
+169,2,Alemania,Cerro Barrancas Blancas,-28.2333333,-69.0333333,03/02/2013
+169,1,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,25/11/2013
+169,2,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,25/11/2013
+170,1,Eslovaquia,Volcán Tupungato,-36.6236493,-72.0842141,18/07/2014
+170,2,Eslovaquia,Volcán Tupungato,-36.6236493,-72.0842141,18/07/2014
+171,1,Noruega,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/03/2014
+171,2,Noruega,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/03/2014
+171,3,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,06/03/2014
+178,1,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,2,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,3,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,4,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,5,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,6,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,7,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,8,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,9,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,10,Canadá,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,11,Australia,Cerro San Lorenzo,-47.5916666,-72.3066666,29/06/2014
+178,1,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,2,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,3,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,4,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,5,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,6,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,7,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,8,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,9,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,10,Canadá,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+178,11,Australia,Cerro Cochrane,-47.5916666,-72.3066666,05/05/2014
+172,1,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,15/01/2014
+172,2,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,15/01/2014
+172,1,España,Torres del Paine: Torre Central,-50.941552,-73.404732,21/05/2014
+172,2,España,Torres del Paine: Torre Central,-50.941552,-73.404732,21/05/2014
+172,1,España,Torres del Paine: Torre Sur,-50.941552,-73.404732,28/08/2014
+172,2,España,Torres del Paine: Torre Sur,-50.941552,-73.404732,28/08/2014
+173,1,México,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/11/2014
+173,2,México,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/11/2014
+173,1,México,Cerro El Muerto,-27.0666667,-68.4833333,27/01/2014
+173,2,México,Cerro El Muerto,-27.0666667,-68.4833333,27/01/2014
+173,1,México,Nevado Tres Cruces,-27.0833333,-68.7666667,22/07/2014
+173,2,México,Nevado Tres Cruces,-27.0833333,-68.7666667,22/07/2014
+173,1,México,Cerro Incahuasi,-31.281825,-64.3086484,09/02/2014
+173,2,México,Cerro Incahuasi,-31.281825,-64.3086484,09/02/2014
+174,1,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,31/08/2015
+174,2,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,31/08/2015
+175,1,Polonia,Nevado Tres Cruces,-27.0833333,-68.7666667,22/07/2014
+175,2,Polonia,Nevado Tres Cruces,-27.0833333,-68.7666667,22/07/2014
+176,1,Hungría,Nevado Ojos del Salado,-27.1091666,-68.5408333,27/11/2013
+176,2,Hungría,Nevado Ojos del Salado,-27.1091666,-68.5408333,27/11/2013
+177,1,Francia,Torres del Paine: Torre Norte,-50.941552,-73.404732,12/03/2014
+177,2,Francia,Torres del Paine: Torre Norte,-50.941552,-73.404732,12/03/2014
+178,1,Italia,Torres del Paine: Cerro Almirante Nieto,-50.941552,-73.404732,18/05/2013
+178,2,Italia,Torres del Paine: Cerro Almirante Nieto,-50.941552,-73.404732,18/05/2013
+179,1,Francia,Cerro Soquete,-22.388333,-67.968507,28/10/2013
+179,2,Francia,Cerro Soquete,-22.388333,-67.968507,28/10/2013
+179,3,Francia,Cerro Soquete,-22.388333,-67.968507,28/10/2013
+179,4,Francia,Cerro Soquete,-22.388333,-67.968507,28/10/2013
+179,1,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2013
+179,2,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2013
+179,3,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2013
+179,4,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,21/06/2013
+180,1,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,13/03/2014
+180,1,Alemania,Volcán San José,-33.7833333,-69.9166667,10/08/2014
+181,1,Chile,Volcán Tupungato,-36.6236493,-72.0842141,07/08/2013
+181,2,Chile,Volcán Tupungato,-36.6236493,-72.0842141,07/08/2013
+181,3,Suecia,Volcán Tupungato,-36.6236493,-72.0842141,07/08/2013
+182,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/03/2015
+182,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/03/2015
+183,1,Colombia,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/10/2015
+183,2,Australia,Nevado Ojos del Salado,-27.1091666,-68.5408333,28/10/2015
+184,1,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,17/02/2013
+185,1,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/05/2015
+185,2,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/05/2015
+185,3,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/05/2015
+185,4,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/05/2015
+185,5,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/05/2015
+186,1,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/04/2013
+186,2,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/04/2013
+186,1,Austria,Nevado Tres Cruces,-27.0833333,-68.7666667,17/08/2013
+186,2,Austria,Nevado Tres Cruces,-27.0833333,-68.7666667,17/08/2013
+187,1,Rumania,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/05/2014
+187,2,Rumania,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/05/2014
+187,3,Rumania,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/05/2014
+187,4,Rumania,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/05/2014
+187,5,Australia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/05/2014
+187,1,Rumania,Nevado Tres Cruces,-27.0833333,-68.7666667,28/09/2014
+187,2,Rumania,Nevado Tres Cruces,-27.0833333,-68.7666667,28/09/2014
+187,3,Rumania,Nevado Tres Cruces,-27.0833333,-68.7666667,28/09/2014
+187,4,Rumania,Nevado Tres Cruces,-27.0833333,-68.7666667,28/09/2014
+187,5,Australia,Nevado Tres Cruces,-27.0833333,-68.7666667,28/09/2014
+188,1,Chile,Nevado Ojos del Salado,-27.1091666,-68.5408333,22/02/2014
+188,2,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,22/02/2014
+189,1,República Checa,Volcán Maipo,-34.1666667,-69.8333333,21/07/2014
+189,2,República Checa,Volcán Maipo,-34.1666667,-69.8333333,21/07/2014
+189,3,República Checa,Volcán Maipo,-34.1666667,-69.8333333,21/07/2014
+189,1,República Checa,Cerro El Marmolejo,-33.735,-69.8783333,29/12/2014
+189,2,República Checa,Cerro El Marmolejo,-33.735,-69.8783333,29/12/2014
+189,3,República Checa,Cerro El Marmolejo,-33.735,-69.8783333,29/12/2014
+189,1,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,10/05/2014
+189,2,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,10/05/2014
+189,3,República Checa,Nevado Tres Cruces,-27.0833333,-68.7666667,10/05/2014
+190,1,Argentina,Volcán El Ermitaño,-26.778676,-68.601771,06/01/2015
+190,1,Argentina,Cerro Vicuñas,-27.0214,-68.6189,07/05/2015
+190,1,Argentina,Cerro Mulas Muertas,-26.9472222,-68.5105556,29/08/2015
+191,1,Francia,Volcán Lascar,-23.3630556,-67.7313889,02/03/2013
+191,2,Francia,Volcán Lascar,-23.3630556,-67.7313889,02/03/2013
+191,3,Francia,Volcán Lascar,-23.3630556,-67.7313889,02/03/2013
+191,4,Francia,Volcán Lascar,-23.3630556,-67.7313889,02/03/2013
+191,5,Francia,Volcán Lascar,-23.3630556,-67.7313889,02/03/2013
+191,6,Francia,Volcán Lascar,-23.3630556,-67.7313889,02/03/2013
+191,7,Suiza,Volcán Lascar,-23.3630556,-67.7313889,02/03/2013
+191,1,Francia,Volcán Poruña,-22.4455281,-68.9064684,04/09/2013
+191,2,Francia,Volcán Poruña,-22.4455281,-68.9064684,04/09/2013
+191,3,Francia,Volcán Poruña,-22.4455281,-68.9064684,04/09/2013
+191,4,Francia,Volcán Poruña,-22.4455281,-68.9064684,04/09/2013
+191,5,Francia,Volcán Poruña,-22.4455281,-68.9064684,04/09/2013
+191,6,Francia,Volcán Poruña,-22.4455281,-68.9064684,04/09/2013
+191,7,Suiza,Volcán Poruña,-22.4455281,-68.9064684,04/09/2013
+191,1,Francia,Volcán Aucanquilcha,-21.22,-68.468333,22/09/2013
+191,2,Francia,Volcán Aucanquilcha,-21.22,-68.468333,22/09/2013
+191,3,Francia,Volcán Aucanquilcha,-21.22,-68.468333,22/09/2013
+191,4,Francia,Volcán Aucanquilcha,-21.22,-68.468333,22/09/2013
+191,5,Francia,Volcán Aucanquilcha,-21.22,-68.468333,22/09/2013
+191,6,Francia,Volcán Aucanquilcha,-21.22,-68.468333,22/09/2013
+191,7,Suiza,Volcán Aucanquilcha,-21.22,-68.468333,22/09/2013
+192,1,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/06/2014
+192,2,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/06/2014
+192,3,Chile,Nevado Ojos del Salado,-27.1091666,-68.5408333,14/06/2014
+192,1,Inglaterra,Volcán San Francisco,-33.4943868,-70.5772164,17/10/2014
+192,2,Inglaterra,Volcán San Francisco,-33.4943868,-70.5772164,17/10/2014
+192,3,Chile,Volcán San Francisco,-33.4943868,-70.5772164,17/10/2014
+192,1,Inglaterra,Cerro Siete Hermanos,-27.019025,-69.198167,25/04/2014
+192,2,Inglaterra,Cerro Siete Hermanos,-27.019025,-69.198167,25/04/2014
+192,3,Chile,Cerro Siete Hermanos,-27.019025,-69.198167,25/04/2014
+193,1,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/01/2013
+193,2,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/01/2013
+194,1,Alemania,Volcán Pili,-23.281547,-67.618051,16/01/2014
+194,2,Alemania,Volcán Pili,-23.281547,-67.618051,16/01/2014
+194,3,Alemania,Volcán Pili,-23.281547,-67.618051,16/01/2014
+194,4,Alemania,Volcán Pili,-23.281547,-67.618051,16/01/2014
+194,5,Alemania,Volcán Pili,-23.281547,-67.618051,16/01/2014
+194,1,Alemania,Volcán Zapaleri,-22.813858,-67.180391,12/03/2014
+194,2,Alemania,Volcán Zapaleri,-22.813858,-67.180391,12/03/2014
+194,3,Alemania,Volcán Zapaleri,-22.813858,-67.180391,12/03/2014
+194,4,Alemania,Volcán Zapaleri,-22.813858,-67.180391,12/03/2014
+194,5,Alemania,Volcán Zapaleri,-22.813858,-67.180391,12/03/2014
+194,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/03/2014
+194,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/03/2014
+194,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/03/2014
+194,4,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/03/2014
+194,5,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/03/2014
+195,1,Lituania,Torres del Paine,-50.941552,-73.404732,09/05/2015
+195,2,Lituania,Torres del Paine,-50.941552,-73.404732,09/05/2015
+195,3,Lituania,Torres del Paine,-50.941552,-73.404732,09/05/2015
+196,1,Francia,Cerro Soquete,-22.388333,-67.968507,26/12/2013
+196,2,Francia,Cerro Soquete,-22.388333,-67.968507,26/12/2013
+196,3,Francia,Cerro Soquete,-22.388333,-67.968507,26/12/2013
+196,4,Inglaterra,Cerro Soquete,-22.388333,-67.968507,26/12/2013
+196,1,Francia,Volcán Licancabur,-22.8333333,-67.8833333,08/07/2013
+196,2,Francia,Volcán Licancabur,-22.8333333,-67.8833333,08/07/2013
+196,3,Francia,Volcán Licancabur,-22.8333333,-67.8833333,08/07/2013
+196,4,Inglaterra,Volcán Licancabur,-22.8333333,-67.8833333,08/07/2013
+196,1,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/02/2013
+196,2,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/02/2013
+196,3,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/02/2013
+196,4,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/02/2013
+197,1,Austria,Cerro Soquete,-22.388333,-67.968507,03/03/2015
+197,2,Austria,Cerro Soquete,-22.388333,-67.968507,03/03/2015
+197,1,Austria,Volcán Lascar,-23.3630556,-67.7313889,04/12/2015
+197,2,Austria,Volcán Lascar,-23.3630556,-67.7313889,04/12/2015
+198,1,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/02/2015
+199,1,Polonia,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/03/2013
+200,1,Francia,Nevado Tres Cruces,-27.0833333,-68.7666667,28/11/2013
+200,1,Francia,Volcán San Francisco,-33.4943868,-70.5772164,25/11/2013
+200,1,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/02/2013
+201,1,Francia,Nevado Tres Cruces,-27.0833333,-68.7666667,16/01/2014
+201,1,Francia,Volcán San Francisco,-33.4943868,-70.5772164,12/10/2014
+201,1,Francia,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/02/2014
+202,1,Austria,Cerro El Muerto,-27.0666667,-68.4833333,26/02/2015
+202,1,Austria,Volcán San Francisco,-33.4943868,-70.5772164,23/03/2015
+203,1,Austria,Volcán San Francisco,-33.4943868,-70.5772164,07/12/2014
+204,1,Austria,Cerro El Muerto,-27.0666667,-68.4833333,08/07/2013
+204,1,Austria,Volcán San Francisco,-33.4943868,-70.5772164,27/04/2013
+205,1,Francia,Cerro Las Tórtolas,-34.6172666,-58.5591813,31/05/2014
+205,2,Francia,Cerro Las Tórtolas,-34.6172666,-58.5591813,31/05/2014
+206,1,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/12/2014
+206,2,USA,Nevado Ojos del Salado,-27.1091666,-68.5408333,02/12/2014
+207,1,Inglaterra,Torres del Paine: Torre Norte,-50.941552,-73.404732,13/04/2014
+207,2,Inglaterra,Torres del Paine: Torre Norte,-50.941552,-73.404732,13/04/2014
+207,3,Inglaterra,Torres del Paine: Torre Norte,-50.941552,-73.404732,13/04/2014
+207,1,Inglaterra,Torres del Paine: Torre Central,-50.941552,-73.404732,29/09/2014
+207,2,Inglaterra,Torres del Paine: Torre Central,-50.941552,-73.404732,29/09/2014
+207,3,Inglaterra,Torres del Paine: Torre Central,-50.941552,-73.404732,29/09/2014
+207,1,Inglaterra,Torres del Paine: Aleta de Tiburón,-50.941552,-73.404732,09/03/2014
+207,2,Inglaterra,Torres del Paine: Aleta de Tiburón,-50.941552,-73.404732,09/03/2014
+207,3,Inglaterra,Torres del Paine: Aleta de Tiburón,-50.941552,-73.404732,09/03/2014
+208,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+208,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+208,3,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+208,4,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+208,5,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+208,6,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+208,7,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+208,8,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/01/2014
+209,1,Suiza,Volcán Parinacota,-18.1633405,-69.1426512,09/08/2013
+210,1,Perú,Volcán Pomerape,-18.125833,-69.1275,24/01/2015
+210,2,Francia,Volcán Pomerape,-18.125833,-69.1275,24/01/2015
+210,1,Perú,Volcán Parinacota,-18.1633405,-69.1426512,10/10/2015
+210,2,Francia,Volcán Parinacota,-18.1633405,-69.1426512,10/10/2015
+211,1,Francia,Volcán Poruña,-22.4455281,-68.9064684,21/03/2014
+211,2,Francia,Volcán Poruña,-22.4455281,-68.9064684,21/03/2014
+211,3,Francia,Volcán Poruña,-22.4455281,-68.9064684,21/03/2014
+211,4,Francia,Volcán Poruña,-22.4455281,-68.9064684,21/03/2014
+211,5,Francia,Volcán Poruña,-22.4455281,-68.9064684,21/03/2014
+211,6,Francia,Volcán Poruña,-22.4455281,-68.9064684,21/03/2014
+211,7,Francia,Volcán Poruña,-22.4455281,-68.9064684,21/03/2014
+211,1,Francia,Volcán Aucanquilcha,-21.22,-68.468333,24/04/2014
+211,2,Francia,Volcán Aucanquilcha,-21.22,-68.468333,24/04/2014
+211,3,Francia,Volcán Aucanquilcha,-21.22,-68.468333,24/04/2014
+211,4,Francia,Volcán Aucanquilcha,-21.22,-68.468333,24/04/2014
+211,5,Francia,Volcán Aucanquilcha,-21.22,-68.468333,24/04/2014
+211,6,Francia,Volcán Aucanquilcha,-21.22,-68.468333,24/04/2014
+211,7,Francia,Volcán Aucanquilcha,-21.22,-68.468333,24/04/2014
+211,1,Francia,Volcán Lascar,-23.3630556,-67.7313889,23/03/2014
+211,2,Francia,Volcán Lascar,-23.3630556,-67.7313889,23/03/2014
+211,3,Francia,Volcán Lascar,-23.3630556,-67.7313889,23/03/2014
+211,4,Francia,Volcán Lascar,-23.3630556,-67.7313889,23/03/2014
+211,5,Francia,Volcán Lascar,-23.3630556,-67.7313889,23/03/2014
+211,6,Francia,Volcán Lascar,-23.3630556,-67.7313889,23/03/2014
+211,7,Francia,Volcán Lascar,-23.3630556,-67.7313889,23/03/2014
+212,1,Alemania,Volcán Pili,-23.281547,-67.618051,24/07/2013
+212,2,Alemania,Volcán Pili,-23.281547,-67.618051,24/07/2013
+212,3,Alemania,Volcán Pili,-23.281547,-67.618051,24/07/2013
+212,4,Alemania,Volcán Pili,-23.281547,-67.618051,24/07/2013
+212,5,Alemania,Volcán Pili,-23.281547,-67.618051,24/07/2013
+212,1,Alemania,Volcán Zapaleri,-22.813858,-67.180391,20/03/2013
+212,2,Alemania,Volcán Zapaleri,-22.813858,-67.180391,20/03/2013
+212,3,Alemania,Volcán Zapaleri,-22.813858,-67.180391,20/03/2013
+212,4,Alemania,Volcán Zapaleri,-22.813858,-67.180391,20/03/2013
+212,5,Alemania,Volcán Zapaleri,-22.813858,-67.180391,20/03/2013
+212,1,Alemania,Volcán El Toco,-22.939412,-67.775574,29/03/2013
+212,2,Alemania,Volcán El Toco,-22.939412,-67.775574,29/03/2013
+212,3,Alemania,Volcán El Toco,-22.939412,-67.775574,29/03/2013
+212,4,Alemania,Volcán El Toco,-22.939412,-67.775574,29/03/2013
+212,5,Alemania,Volcán El Toco,-22.939412,-67.775574,29/03/2013
+213,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/04/2013
+213,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/04/2013
+213,3,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/04/2013
+213,4,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/04/2013
+213,5,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/04/2013
+213,6,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/04/2013
+213,7,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,03/04/2013
+214,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,05/02/2015
+214,1,España,Nevado Tres Cruces,-27.0833333,-68.7666667,03/09/2015
+215,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,19/06/2013
+216,1,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+216,2,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+216,3,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+216,4,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+216,5,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+216,6,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+216,7,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+216,8,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,15/02/2015
+217,1,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,2,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,3,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,4,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,5,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,6,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,7,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,8,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,9,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,10,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,11,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,12,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,13,Francia,Volcán Lascar,-23.3630556,-67.7313889,15/06/2014
+217,1,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,2,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,3,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,4,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,5,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,6,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,7,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,8,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,9,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,10,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,11,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,12,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+217,13,Francia,Volcán Aucanquilcha,-21.22,-68.468333,14/09/2014
+218,1,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,2,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,3,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,4,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,5,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,6,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,7,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,8,Alemania,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,9,Austria,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,10,Austria,Cerro Milagro,-35.3013889,-71.4422222,26/10/2015
+218,1,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,2,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,3,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,4,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,5,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,6,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,7,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,8,Alemania,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,9,Austria,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,10,Austria,Volcán Colorado,-22.5925,-67.9216667,02/03/2015
+218,1,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,2,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,3,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,4,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,5,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,6,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,7,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,8,Alemania,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,9,Austria,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+218,10,Austria,Volcán El Toco,-22.939412,-67.775574,01/03/2015
+219,1,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,25/02/2015
+219,2,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,25/02/2015
+220,1,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,24/02/2014
+220,2,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,24/02/2014
+220,3,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,24/02/2014
+221,1,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,30/05/2014
+221,2,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,30/05/2014
+221,3,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,30/05/2014
+221,4,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,30/05/2014
+221,5,Canadá,Volcán Guallatiri,-18.4244444,-69.0902778,30/05/2014
+221,6,Canadá,Volcán Guallatiri,-18.4244444,-69.0902778,30/05/2014
+221,1,Francia,Cerro Guane Guane,-18.149758,-69.271992,06/12/2014
+221,2,Francia,Cerro Guane Guane,-18.149758,-69.271992,06/12/2014
+221,3,Francia,Cerro Guane Guane,-18.149758,-69.271992,06/12/2014
+221,4,Francia,Cerro Guane Guane,-18.149758,-69.271992,06/12/2014
+221,5,Canadá,Cerro Guane Guane,-18.149758,-69.271992,06/12/2014
+221,6,Canadá,Cerro Guane Guane,-18.149758,-69.271992,06/12/2014
+222,1,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,2,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,3,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,4,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,5,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,6,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,7,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,8,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,9,Alemania,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,10,Suiza,Cerro Milagro,-35.3013889,-71.4422222,14/02/2014
+222,1,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,2,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,3,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,4,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,5,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,6,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,7,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,8,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,9,Alemania,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,10,Suiza,Volcán Colorado,-22.5925,-67.9216667,09/08/2014
+222,1,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,2,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,3,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,4,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,5,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,6,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,7,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,8,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,9,Alemania,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+222,10,Suiza,Volcán El Toco,-22.939412,-67.775574,13/11/2014
+223,1,Polonia,Volcán Guallatiri,-18.4244444,-69.0902778,29/03/2014
+224,1,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,2,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,3,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,4,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,5,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,6,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,7,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,8,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,9,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,10,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,11,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,12,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,13,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,14,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,15,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,16,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,17,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,18,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,19,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,20,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,21,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,22,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,23,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,24,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,25,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,26,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,27,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,28,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,29,Inglaterra,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,30,Irlanda,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,31,Francia,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,32,República Checa,Volcán Tarapacá,-33.6665746,-70.7468838,31/03/2013
+224,1,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,2,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,3,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,4,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,5,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,6,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,7,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,8,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,9,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,10,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,11,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,12,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,13,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,14,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,15,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,16,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,17,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,18,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,19,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,20,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,21,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,22,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,23,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,24,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,25,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,26,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,27,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,28,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,29,Inglaterra,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,30,Irlanda,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,31,Francia,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+224,32,República Checa,Cerro Guane Guane,-18.149758,-69.271992,01/03/2013
+225,1,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/11/2015
+225,2,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/11/2015
+225,3,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,26/11/2015
+226,1,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,2,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,3,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,4,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,5,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,6,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,7,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,8,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,9,Alemania,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,10,Rusia,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,11,Austria,Cerro Milagro,-35.3013889,-71.4422222,24/12/2014
+226,1,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,2,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,3,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,4,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,5,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,6,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,7,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,8,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,9,Alemania,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,10,Rusia,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,11,Austria,Volcán Colorado,-22.5925,-67.9216667,07/02/2014
+226,1,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,2,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,3,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,4,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,5,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,6,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,7,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,8,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,9,Alemania,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,10,Rusia,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+226,11,Austria,Volcán El Toco,-22.939412,-67.775574,12/06/2014
+227,1,Alemania,Cerro Guane Guane,-18.149758,-69.271992,21/05/2015
+227,2,Alemania,Cerro Guane Guane,-18.149758,-69.271992,21/05/2015
+227,3,Alemania,Cerro Guane Guane,-18.149758,-69.271992,21/05/2015
+227,4,Alemania,Cerro Guane Guane,-18.149758,-69.271992,21/05/2015
+227,5,Alemania,Cerro Guane Guane,-18.149758,-69.271992,21/05/2015
+227,6,Alemania,Cerro Guane Guane,-18.149758,-69.271992,21/05/2015
+227,1,Alemania,Cerro Chihuana,-14.2644444,-71.3238889,18/06/2015
+227,2,Alemania,Cerro Chihuana,-14.2644444,-71.3238889,18/06/2015
+227,3,Alemania,Cerro Chihuana,-14.2644444,-71.3238889,18/06/2015
+227,4,Alemania,Cerro Chihuana,-14.2644444,-71.3238889,18/06/2015
+227,5,Alemania,Cerro Chihuana,-14.2644444,-71.3238889,18/06/2015
+227,6,Alemania,Cerro Chihuana,-14.2644444,-71.3238889,18/06/2015
+228,1,Francia,Volcán Tatio,-22.9151489,-68.1929586,24/12/2013
+228,2,Francia,Volcán Tatio,-22.9151489,-68.1929586,24/12/2013
+228,3,Francia,Volcán Tatio,-22.9151489,-68.1929586,24/12/2013
+228,1,Francia,Volcán Lascar,-23.3630556,-67.7313889,29/01/2013
+228,2,Francia,Volcán Lascar,-23.3630556,-67.7313889,29/01/2013
+228,3,Francia,Volcán Lascar,-23.3630556,-67.7313889,29/01/2013
+228,1,Francia,Volcán Pili,-23.281547,-67.618051,23/08/2013
+228,2,Francia,Volcán Pili,-23.281547,-67.618051,23/08/2013
+228,3,Francia,Volcán Pili,-23.281547,-67.618051,23/08/2013
+229,1,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,2,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,3,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,4,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,5,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,6,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,7,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,8,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,9,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+229,10,Francia,Volcán Lascar,-23.3630556,-67.7313889,14/12/2013
+230,1,España,Volcán Guallatiri,-18.4244444,-69.0902778,30/08/2014
+230,2,España,Volcán Guallatiri,-18.4244444,-69.0902778,30/08/2014
+231,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+231,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+231,3,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+231,4,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+231,5,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+231,6,Austria,Nevado Ojos del Salado,-27.1091666,-68.5408333,16/08/2015
+232,1,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,11/07/2014
+232,2,Francia,Volcán Guallatiri,-18.4244444,-69.0902778,11/07/2014
+233,1,Suiza,Volcán Tupungato,-36.6236493,-72.0842141,25/12/2013
+233,2,Suiza,Volcán Tupungato,-36.6236493,-72.0842141,25/12/2013
+234,1,Suiza,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+234,2,Suiza,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+234,3,Suiza,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+234,4,Suiza,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+234,5,Suiza,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+234,6,Suiza,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+234,7,Suiza,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+234,8,Chile,Cerro Soquete,-22.388333,-67.968507,01/07/2013
+235,1,Alemania,Volcán Parinacota,-18.1633405,-69.1426512,06/03/2014
+235,2,Alemania,Volcán Parinacota,-18.1633405,-69.1426512,06/03/2014
+235,3,Alemania,Volcán Parinacota,-18.1633405,-69.1426512,06/03/2014
+235,4,Alemania,Volcán Parinacota,-18.1633405,-69.1426512,06/03/2014
+235,5,Bolivia,Volcán Parinacota,-18.1633405,-69.1426512,06/03/2014
+235,6,Chile,Volcán Parinacota,-18.1633405,-69.1426512,06/03/2014
+236,1,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/04/2015
+236,2,Inglaterra,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/04/2015
+236,3,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/04/2015
+236,4,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/04/2015
+236,5,Irlanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,24/04/2015
+237,1,USA,Volcán Llullaillaco,-24.7206512,-68.5365522,14/04/2013
+237,2,USA,Volcán Llullaillaco,-24.7206512,-68.5365522,14/04/2013
+238,1,Francia,Volcán El Toco,-22.939412,-67.775574,17/03/2014
+238,2,Francia,Volcán El Toco,-22.939412,-67.775574,17/03/2014
+238,3,Francia,Volcán El Toco,-22.939412,-67.775574,17/03/2014
+238,4,Francia,Volcán El Toco,-22.939412,-67.775574,17/03/2014
+238,5,Francia,Volcán El Toco,-22.939412,-67.775574,17/03/2014
+238,6,Francia,Volcán El Toco,-22.939412,-67.775574,17/03/2014
+239,1,España,Volcán San José,-33.7833333,-69.9166667,01/11/2013
+239,2,España,Volcán San José,-33.7833333,-69.9166667,01/11/2013
+240,1,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/12/2013
+240,2,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/12/2013
+240,3,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/12/2013
+240,4,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/12/2013
+241,1,Alemania,Cerro Soquete,-22.388333,-67.968507,18/07/2013
+242,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,4,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,5,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,6,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,7,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,8,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,9,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,10,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,11,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,12,Suiza,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,13,Italia,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,14,Argentina,Nevado Ojos del Salado,-27.1091666,-68.5408333,08/09/2015
+242,1,Alemania,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,2,Alemania,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,3,Alemania,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,4,Alemania,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,5,Alemania,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,6,Alemania,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,7,Alemania,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,8,Suiza,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,9,Suiza,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,10,Suiza,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,11,Suiza,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,12,Suiza,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,13,Italia,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,14,Argentina,Volcán Licancabur,-22.8333333,-67.8833333,21/08/2015
+242,1,Alemania,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,2,Alemania,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,3,Alemania,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,4,Alemania,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,5,Alemania,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,6,Alemania,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,7,Alemania,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,8,Suiza,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,9,Suiza,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,10,Suiza,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,11,Suiza,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,12,Suiza,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,13,Italia,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+242,14,Argentina,Cerro Soquete,-22.388333,-67.968507,28/01/2015
+243,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,15/08/2015
+243,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,15/08/2015
+243,3,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,15/08/2015
+243,4,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,15/08/2015
+243,1,Alemania,Cerro Vicuñas,-27.0214,-68.6189,05/03/2015
+243,2,Alemania,Cerro Vicuñas,-27.0214,-68.6189,05/03/2015
+243,3,Alemania,Cerro Vicuñas,-27.0214,-68.6189,05/03/2015
+243,4,Alemania,Cerro Vicuñas,-27.0214,-68.6189,05/03/2015
+243,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/05/2015
+243,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/05/2015
+243,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/05/2015
+243,4,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,20/05/2015
+244,1,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,2,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,3,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,4,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,5,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,6,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,7,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,8,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,9,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,10,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,11,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,12,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,13,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,14,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,15,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,16,Chile,Volcán Guallatiri,-18.4244444,-69.0902778,11/09/2014
+244,1,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,2,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,3,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,4,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,5,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,6,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,7,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,8,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,9,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,10,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,11,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,12,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,13,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,14,Suiza,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,15,Alemania,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+244,16,Chile,Volcán Lascar,-23.3630556,-67.7313889,25/01/2014
+245,1,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,15/06/2014
+245,2,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,15/06/2014
+245,3,España,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,15/06/2014
+245,1,USA,Torres del Paine: Torre Norte,-50.941552,-73.404732,19/11/2014
+245,2,USA,Torres del Paine: Torre Norte,-50.941552,-73.404732,19/11/2014
+245,3,España,Torres del Paine: Torre Norte,-50.941552,-73.404732,19/11/2014
+245,1,USA,Torres del Paine: Valle Bader,-50.941552,-73.404732,14/05/2014
+245,2,USA,Torres del Paine: Valle Bader,-50.941552,-73.404732,14/05/2014
+245,3,España,Torres del Paine: Valle Bader,-50.941552,-73.404732,14/05/2014
+245,1,USA,Torres del Paine: Cuerno Este,-50.941552,-73.404732,15/03/2014
+245,2,USA,Torres del Paine: Cuerno Este,-50.941552,-73.404732,15/03/2014
+245,3,España,Torres del Paine: Cuerno Este,-50.941552,-73.404732,15/03/2014
+246,1,USA,Torres del Paine: Torre Norte,-50.941552,-73.404732,17/04/2013
+246,2,USA,Torres del Paine: Torre Norte,-50.941552,-73.404732,17/04/2013
+246,3,USA,Torres del Paine: Torre Norte,-50.941552,-73.404732,17/04/2013
+247,1,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,2,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,3,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,4,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,5,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,6,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,7,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,8,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,9,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,10,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,11,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,12,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,13,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,14,Suiza,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,15,Chile,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,16,Chile,Volcán Guallatiri,-18.4244444,-69.0902778,17/08/2013
+247,1,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,2,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,3,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,4,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,5,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,6,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,7,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,8,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,9,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,10,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,11,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,12,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,13,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,14,Suiza,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,15,Chile,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,16,Chile,Cerro Soquete,-22.388333,-67.968507,12/09/2013
+247,1,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,2,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,3,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,4,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,5,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,6,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,7,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,8,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,9,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,10,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,11,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,12,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,13,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,14,Suiza,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,15,Chile,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+247,16,Chile,Volcán Lascar,-23.3630556,-67.7313889,18/05/2013
+248,1,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,2,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,3,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,4,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,5,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,6,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,7,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,8,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,9,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,10,Alemania,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,11,Chile,Cerro Rojo,-14.0266667,-76.1161111,10/12/2013
+248,1,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,2,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,3,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,4,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,5,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,6,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,7,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,8,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,9,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,10,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+248,11,Chile,Volcán Guallatiri,-18.4244444,-69.0902778,05/08/2013
+249,1,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,2,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,3,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,4,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,5,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,6,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,7,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,8,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,9,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,10,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,11,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,12,Francia,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,13,Bélgica,Volcán Aucanquilcha,-21.22,-68.468333,20/01/2015
+249,1,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,2,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,3,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,4,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,5,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,6,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,7,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,8,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,9,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,10,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,11,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,12,Francia,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+249,13,Bélgica,Volcán Lascar,-23.3630556,-67.7313889,10/12/2015
+250,1,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,13/07/2014
+250,2,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,13/07/2014
+250,3,Alemania,Cerro El Marmolejo,-33.735,-69.8783333,13/07/2014
+250,4,Chile,Cerro El Marmolejo,-33.735,-69.8783333,13/07/2014
+251,1,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,14/11/2014
+251,2,Alemania,Volcán Guallatiri,-18.4244444,-69.0902778,14/11/2014
+251,1,Alemania,Volcán Parinacota,-18.1633405,-69.1426512,13/09/2014
+251,2,Alemania,Volcán Parinacota,-18.1633405,-69.1426512,13/09/2014
+252,1,Indonesia,Torres del Paine,-50.941552,-73.404732,10/08/2015
+252,2,Rusia,Torres del Paine,-50.941552,-73.404732,10/08/2015
+253,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,12/10/2015
+254,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,13/02/2014
+255,1,Eslovenia,Torres del Paine: Cerro Máscara,-50.941552,-73.404732,19/08/2013
+255,2,Eslovenia,Torres del Paine: Cerro Máscara,-50.941552,-73.404732,19/08/2013
+255,1,Eslovenia,Torres del Paine: Torre Central,-50.941552,-73.404732,25/04/2013
+255,2,Eslovenia,Torres del Paine: Torre Central,-50.941552,-73.404732,25/04/2013
+256,1,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/01/2015
+256,2,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/01/2015
+256,3,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/01/2015
+256,4,Alemania,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/01/2015
+256,1,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,04/03/2015
+256,2,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,04/03/2015
+256,3,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,04/03/2015
+256,4,Alemania,Volcán San Francisco,-33.4943868,-70.5772164,04/03/2015
+256,1,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,13/07/2015
+256,2,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,13/07/2015
+256,3,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,13/07/2015
+256,4,Alemania,Nevado Tres Cruces,-27.0833333,-68.7666667,13/07/2015
+257,1,Hungría,Volcán Guallatiri,-18.4244444,-69.0902778,02/09/2013
+257,1,Hungría,Volcán Tarapacá,-33.6665746,-70.7468838,11/05/2013
+258,1,España,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/06/2013
+259,1,Brasil,Volcán Socompa,-24.3958333,-68.2458333,04/05/2013
+259,2,Brasil,Volcán Socompa,-24.3958333,-68.2458333,04/05/2013
+259,3,Brasil,Volcán Socompa,-24.3958333,-68.2458333,04/05/2013
+259,1,Brasil,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/10/2013
+259,2,Brasil,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/10/2013
+259,3,Brasil,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/10/2013
+259,1,Brasil,Volcán Sierra Nevada,-36.6233758,-72.0832987,22/04/2013
+259,2,Brasil,Volcán Sierra Nevada,-36.6233758,-72.0832987,22/04/2013
+259,3,Brasil,Volcán Sierra Nevada,-36.6233758,-72.0832987,22/04/2013
+259,1,Brasil,Nevado Tres Cruces,-27.0833333,-68.7666667,18/02/2013
+259,2,Brasil,Nevado Tres Cruces,-27.0833333,-68.7666667,18/02/2013
+259,3,Brasil,Nevado Tres Cruces,-27.0833333,-68.7666667,18/02/2013
+259,1,Brasil,Cerro Olivares,-34.6173429,-58.5595981,09/05/2013
+259,2,Brasil,Cerro Olivares,-34.6173429,-58.5595981,09/05/2013
+259,3,Brasil,Cerro Olivares,-34.6173429,-58.5595981,09/05/2013
+259,1,Brasil,Cerro Las Tórtolas,-34.6172666,-58.5591813,18/01/2013
+259,2,Brasil,Cerro Las Tórtolas,-34.6172666,-58.5591813,18/01/2013
+259,3,Brasil,Cerro Las Tórtolas,-34.6172666,-58.5591813,18/01/2013
+260,1,Holanda,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,11/04/2013
+260,2,Holanda,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,11/04/2013
+260,1,Holanda,Torres del Paine: Valle del Francés,-50.941552,-73.404732,18/05/2013
+260,2,Holanda,Torres del Paine: Valle del Francés,-50.941552,-73.404732,18/05/2013
+261,1,Holanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/05/2015
+261,2,Holanda,Nevado Ojos del Salado,-27.1091666,-68.5408333,25/05/2015
+262,1,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/08/2015
+262,2,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/08/2015
+262,3,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/08/2015
+262,4,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/08/2015
+262,5,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,30/08/2015
+263,1,Suiza,Cerro Soquete,-22.388333,-67.968507,26/06/2014
+263,2,Suiza,Cerro Soquete,-22.388333,-67.968507,26/06/2014
+264,1,Japón,Nevado Ojos del Salado,-27.1091666,-68.5408333,15/06/2015
+265,1,Alemania,Volcán Lascar,-23.3630556,-67.7313889,26/09/2014
+265,2,Alemania,Volcán Lascar,-23.3630556,-67.7313889,26/09/2014
+265,3,Chile,Volcán Lascar,-23.3630556,-67.7313889,26/09/2014
+266,1,Francia,Volcán San Francisco,-33.4943868,-70.5772164,03/05/2014
+266,2,Francia,Volcán San Francisco,-33.4943868,-70.5772164,03/05/2014
+266,3,Inglaterra,Volcán San Francisco,-33.4943868,-70.5772164,03/05/2014
+266,4,Italia,Volcán San Francisco,-33.4943868,-70.5772164,03/05/2014
+266,1,Francia,Nevado Tres Cruces,-27.0833333,-68.7666667,03/02/2014
+266,2,Francia,Nevado Tres Cruces,-27.0833333,-68.7666667,03/02/2014
+266,3,Inglaterra,Nevado Tres Cruces,-27.0833333,-68.7666667,03/02/2014
+266,4,Italia,Nevado Tres Cruces,-27.0833333,-68.7666667,03/02/2014
+267,1,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,22/02/2014
+267,2,USA,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,22/02/2014
+268,1,Austria,Cerro El Marmolejo,-33.735,-69.8783333,25/07/2014
+268,2,Austria,Cerro El Marmolejo,-33.735,-69.8783333,25/07/2014
+268,3,Austria,Cerro El Marmolejo,-33.735,-69.8783333,25/07/2014
+268,4,Austria,Cerro El Marmolejo,-33.735,-69.8783333,25/07/2014
+268,5,Austria,Cerro El Marmolejo,-33.735,-69.8783333,25/07/2014
+268,6,Austria,Cerro El Marmolejo,-33.735,-69.8783333,25/07/2014
+268,1,Austria,Volcán Tupungato,-36.6236493,-72.0842141,31/07/2014
+268,2,Austria,Volcán Tupungato,-36.6236493,-72.0842141,31/07/2014
+268,3,Austria,Volcán Tupungato,-36.6236493,-72.0842141,31/07/2014
+268,4,Austria,Volcán Tupungato,-36.6236493,-72.0842141,31/07/2014
+268,5,Austria,Volcán Tupungato,-36.6236493,-72.0842141,31/07/2014
+268,6,Austria,Volcán Tupungato,-36.6236493,-72.0842141,31/07/2014
+269,1,Rusia,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,26/09/2015
+269,2,Rusia,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,26/09/2015
+269,3,Rusia,Torres del Paine: Valle del Silencio,-50.941552,-73.404732,26/09/2015
+270,1,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+270,2,República Checa,Nevado Ojos del Salado,-27.1091666,-68.5408333,04/09/2014
+270,1,República Checa,Cerro Mulas Muertas,-26.9472222,-68.5105556,13/12/2014
+270,2,República Checa,Cerro Mulas Muertas,-26.9472222,-68.5105556,13/12/2014
+270,1,República Checa,Cerro Vicuñas,-27.0214,-68.6189,10/03/2014
+270,2,República Checa,Cerro Vicuñas,-27.0214,-68.6189,10/03/2014
+271,1,Ecuador,Nevado Ojos del Salado,-27.1091666,-68.5408333,27/04/2015
+272,1,Alemania,Volcán Tupungato,-36.6236493,-72.0842141,16/12/2015
+273,1,Guatemala,Monte San Valentín,-46.595,-73.3458333,27/11/2015
+273,2,Alemania,Monte San Valentín,-46.595,-73.3458333,27/11/2015
+273,3,Argentina,Monte San Valentín,-46.595,-73.3458333,27/11/2015
+273,4,Inglaterra,Monte San Valentín,-46.595,-73.3458333,27/11/2015
+274,1,Rusia,Torres del Paine: Valle del Francés,-50.941552,-73.404732,27/04/2013
+274,2,Rusia,Torres del Paine: Valle del Francés,-50.941552,-73.404732,27/04/2013
+274,3,Rusia,Torres del Paine: Valle del Francés,-50.941552,-73.404732,27/04/2013
+274,1,Rusia,Torres del Paine: Valle del Ascencio,-50.941552,-73.404732,16/06/2013
+274,2,Rusia,Torres del Paine: Valle del Ascencio,-50.941552,-73.404732,16/06/2013
+274,3,Rusia,Torres del Paine: Valle del Ascencio,-50.941552,-73.404732,16/06/2013
+275,1,Austria,Cerro El Marmolejo,-33.735,-69.8783333,14/09/2014
+275,1,Austria,Volcán Tupungato,-36.6236493,-72.0842141,27/06/2014
